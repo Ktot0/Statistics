@@ -1,0 +1,17 @@
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\bin\Debug\net6.0-windows\Exercise_1_vb.exe
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\bin\Debug\net6.0-windows\Exercise_1_vb.deps.json
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\bin\Debug\net6.0-windows\Exercise_1_vb.runtimeconfig.json
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\bin\Debug\net6.0-windows\Exercise_1_vb.dll
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\bin\Debug\net6.0-windows\Exercise_1_vb.pdb
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.vbproj.AssemblyReference.cache
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.Form1.resources
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.vbproj.GenerateResource.cache
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.AssemblyInfo.vb
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.vbproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.dll
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\refint\Exercise_1_vb.dll
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.pdb
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\Exercise_1_vb.genruntimeconfig.cache
+C:\Users\david\source\repos\Exercise_1_vb\Exercise_1_vb\obj\Debug\net6.0-windows\ref\Exercise_1_vb.dll

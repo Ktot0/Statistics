@@ -9,6 +9,7 @@
 
 * Application
 1. Create a simple application in C# and VB.net
+https://github.com/Ktot0/Statistics/tree/main/week1
 
 * Research on App
 1. Main differences between C# and VB.net

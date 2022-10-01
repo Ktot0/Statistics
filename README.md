@@ -1,6 +1,6 @@
 # Statistics Weekly Homeworks
 
-# [Week 1](https://github.com/Ktot0/Statistics/tree/main/week1)
+# [Week 1](https://ktot0.github.io/Statistics/week1)
 
 * Research
 1. Definition of statistics
@@ -9,7 +9,7 @@
 
 * Application
 1. Create a simple application in C# and VB.net
-https://github.com/Ktot0/Statistics/tree/main/week1
+
 
 * Research on App
 1. Main differences between C# and VB.net

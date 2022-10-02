@@ -4,23 +4,27 @@
 ## Objectives:
 
 * Research
+
 1. Definition of statistics.
 2. What is a dataset? From the observation units to the dataset attributes and values.
 3. Find intresting application of statistics in cybersecurity.
 
 * Application
+
 1. Create a simple application in C# and VB.net
 
 
 * Research on App
+
 1. Main differences between C# and VB.net
 
 ## Assignment
 ### Research
 * Statistics is a scientific discipline that handles the collection, organization, analysis, interpretation, and presentation of data.
 For this purpose, data are collected in datasets and organized in tables where every row represents a record and every column represents a variable. In statistics, a single element of the analysis is called a unit. Each row corresponds to a unit.
-Thanks to organized datasets and through math statistics can be used to create a model to predict certain reality behaviour.
-Statistics may be applied to reach security goals as well. As an example, we can use statistics to predict the shortest path to take in order to gain control of a network presenting hosts affected by vulnerabilities, or we can obtain a behavioural model of the users in our network.
+An attribute is a quality of a unit. A variable is an operationalized way in which the attribute is represented for further data processing. As an example, "Speed" is an attribute that can be operationalized in many different ways, such as "slow" or "fast" when using a binary variable, or it can be a number or rational value that represents the speed. 
+We can use statistics to create a model to predict certain reality behaviour thanks to organized datasets and through math.
+Statistics may be applied to reach security goals as well. As an example, we can use statistics to predict the shortest path to take to gain control of a network presenting hosts affected by vulnerabilities, or we can obtain a behavioural model of the users in our network.
 
 
 ### App

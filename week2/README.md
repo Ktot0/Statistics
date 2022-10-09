@@ -28,6 +28,7 @@
 [Random and Timer](https://github.com/Ktot0/Statistics/tree/main/week2/Week2_EX1)
 
 [CSV parser and Univariate Distribution](https://github.com/Ktot0/Statistics/tree/main/week2/Week2_Ex2)
+
 [Test CSV file](https://github.com/Ktot0/Statistics/blob/main/week2/test.csv)
 
 ### Research on App

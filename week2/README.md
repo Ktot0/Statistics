@@ -19,7 +19,7 @@
 
 ## Assignment
 ### Research
-* 
+* In statistics, the distribution, also known as frequency or absolute frequency, is the number of times the observation of an event occurred in a study. This frequencies are often are often depicted graphically or in tabular form. When using a tabular form we obtain what is called a "frequency distribution table". Usually is an arrangement of the values that one or more varibale take, each with the count of the occurrences of the values. We talk abount univariate frequency tables when the occurencies of a single varible are taken into place. If two or more variables are counted we are dealing with a multivariate table.
 
 
 ### App

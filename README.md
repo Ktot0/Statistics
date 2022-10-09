@@ -17,13 +17,12 @@
 # [Week 2](https://ktot0.github.io/Statistics/week2)
 
 * Research
-1. Definition of statistics
-2. What is a dataset? From the observation units to the dataset attributes and values
-3. Find intresting application of statistics in cybersecurity
+1. Concept of distribution. Univariate and multivariate. Conditional and marginal distributions.
 
 * Application
-1. Create a simple application in C# and VB.net
-
+1. Make a simple program which uses the objects RANDOM and TIMER.
+2. Make a simple CSV parser
+3. Compute an univariate distribution of a variable.
 
 * Research on App
-1. Main differences between C# and VB.net
+1. CSV protocol RFC-4180 (Definition and rules)

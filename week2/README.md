@@ -24,11 +24,11 @@
 
 ### App
 
-[Random and Timer](https://github.com/Ktot0/Statistics/tree/main/week1/Exercise_1)
 
-[CSV parser](https://github.com/Ktot0/Statistics/tree/main/week1/Exercise_1_vb)
+[Random and Timer](https://github.com/Ktot0/Statistics/tree/main/week2/Week2_EX1)
 
-[Univariate distribution](https://github.com/Ktot0/Statistics/tree/main/week1/Exercise_1_vb)
+[CSV parser and Univariate Distribution](https://github.com/Ktot0/Statistics/tree/main/week2/Week2_Ex2)
+[Test CSV file](https://github.com/Ktot0/Statistics/blob/main/week2/test.csv)
 
 ### Research on App
 * A CSV or Comma separated file, is a file format used as a container for datasets organized as field-separated lists. It is standardized according to RFC 4180:

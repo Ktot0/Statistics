@@ -25,6 +25,10 @@
 
 * A Joint relative frequency reflects how many times a combination of two conditions appears in a statistical population. As an example, in our table, the joint frequency of people with medium height and green eyes is 9/100.
 
+
+
+
+
 | Eye colour/Height | Blue | Green | Brown | Marginal Frequency |
 | ----------------- | ---- | ----- | ----- | ----- |
 | Tall              | 8/100| 3/100     | 12/100    | 23/100    |

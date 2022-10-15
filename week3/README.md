@@ -25,4 +25,4 @@
 
 
 ### Research on App
-* 
+* As for Wikipedia, an online algorithm can process the input as it is fed without knowing the whole. Because of its nature, an online algorithm is forced to make decisions that may lead to an incorrect result which is why the main focus in online algorithm development is to create meaningful results through decision-making techniques.

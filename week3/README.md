@@ -16,6 +16,7 @@
 
 ## Assignment
 ### Research
+
 | Eye colour/Height | Blue | Green | Brown | Total |
 | ----------------- | ---- | ----- | ----- | ----- |
 | Tall              | 8    | 3     | 12    | 23    |

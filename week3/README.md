@@ -12,16 +12,34 @@
 
 * Research on App
 1. A survey on online algorithms (Welford)
-2. In particular, Knuth recursione for the computation of the arithmetic mean.
+2. In particular, Knuth recursion for the computation of the arithmetic mean.
 
 ## Assignment
 ### Research
-*
+| Eye colour/Height | Blue | Green | Brown | Total |
+| ----------------- | ---- | ----- | ----- | ----- |
+| Tall              | 8    | 3     | 12    | 23    |
+| Medium            | 13   | 9     | 20    | 42    |
+| Short             | 10   | 4     | 21    | 35    |
+| Total             | 31   | 16    | 53    | 100   |
+
+* A Joint relative frequency reflects how many times a combination of two conditions appears in a statistical population. As an example, in our table, the joint frequency of people with medium height and green eyes is 9/100.
+
+| Eye colour/Height | Blue | Green | Brown | Marginal Frequency |
+| ----------------- | ---- | ----- | ----- | ----- |
+| Tall              | 8/100| 3/100     | 12/100    | 23/100    |
+| Medium            | 13/100   | 9/100     | 20/100    | 42/100    |
+| Short             | 10/100   | 4/100     | 21/100    | 35/100    |
+| Marginal Frequency             | 31/100   | 16/100    | 53/100    | 100/100   |
+
+* The marginal relative frequencies are obtained by summing the joint frequencies for each row and column. 
+
+* By dividing the joint conditional frequency by the marginal frequency we obtain a conditional relative frequency. We can use conditional probabilities to correlate two events. When one of these occurrences does not affect the other the two are independent. As for our table, height does not affect eye colour and vice versa.
 
 ### App
 
 
-[Wireshark CSV distribution](https://github.com/Ktot0/Statistics/tree/main/week2/Week2_EX1)
+[Wireshark CSV distribution](https://github.com/Ktot0/Statistics/tree/main/week2/Week3_EXT1)
 
 
 ### Research on App

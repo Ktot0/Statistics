@@ -43,8 +43,8 @@
 ### App
 
 
-[Wireshark CSV distribution](https://github.com/Ktot0/Statistics/tree/main/week2/Week3_EXT1)
-
+[Wireshark CSV distribution](https://github.com/Ktot0/Statistics/tree/main/week3/Week3_EX1)
+[Wireshark CSV test file](https://github.com/Ktot0/Statistics/blob/main/week3/WireShark.csv)
 
 ### Research on App
 * As for Wikipedia, an online algorithm can process the input as it is fed without knowing the whole. Because of its nature, an online algorithm is forced to make decisions that may lead to an incorrect result which is why the main focus in online algorithm development is to create meaningful results through decision-making techniques.

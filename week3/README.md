@@ -29,4 +29,4 @@
 
 * Following simple mathematics, the mean value of a variable can be obtained by dividing the sum of all values the variable assumes in a statistical population by the dimension of the population itself. To reduce numerical error in the total Donald Knuth developed an online algorithm to calculate the mean iteratively. Knuth's algorithm updates the mean computed with the first n-1 inputs when a new X is received.
 
-![Knuth's Algorithm](72192362c590b89684309e78f6644ab0864f8d1b.svg)
+                              ![Knuth's Algorithm](72192362c590b89684309e78f6644ab0864f8d1b.svg)

@@ -37,4 +37,4 @@
 
 * Research on App
 1. A survey on online algorithms (Welford)
-2. In particular, Knuth recursione for the computation of the arithmetic mean.
+2. In particular, Knuth recursion for the computation of the arithmetic mean.

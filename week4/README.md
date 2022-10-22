@@ -38,7 +38,7 @@ $$P(&Omega;) = 1$$
 
 Any countable sequence of disjoint sets $E_1, E_2,...$ satisfies
 
-$$P(\bigcup_{i=1}^{\infty}E_i)= \sum_{i=1}^{\infty} P(E_i)$$
+\\[P(\bigcup_{i=1}^{\infty}E_i)= \sum_{i=1}^{\infty} P(E_i)]\\
 
 
 Axiom 1 and 2 can translate to $f(\emptyset)=0$ and $f(P)=1$. Axiom 3 is equal to the additivity property for freqencies:

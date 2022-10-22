@@ -84,7 +84,7 @@ Example Events
 * **Null empty set**: &mu;( $\varnothing$ ) = 0.
 * **Countable additivity**: For all countable collections $\left[ E_k \right ] _{k=1}^\infty$ or pairwise disjoint sets in &Sigma;, 
 
-$$&mu;(\bigcup_{k=1}^{\infty}{E_k}) = \sum_{k=1}^{\infty} &mu;(E_k)$$
+\\[&mu;(\bigcup_{k=1}^{\infty}{E_k}) = \sum_{k=1}^{\infty} &mu;(E_k)\\]
 
 
 ### App

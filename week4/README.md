@@ -44,7 +44,7 @@ $$P(E)\in\mathbb{R}, \quad P(E)\ge0 \quad \forall \ E\in F$$
 
 The probability that at least one of the elementary events in the entire sample space will occur is 1.
 
-\\[P(&Omega;) = 1]\\
+\\[P(&Omega;) = 1\\]
 
 
 **Third Axiom**

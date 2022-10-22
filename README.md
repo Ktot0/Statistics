@@ -38,3 +38,16 @@
 * Research on App
 1. A survey on online algorithms (Welford)
 2. In particular, Knuth recursion for the computation of the arithmetic mean.
+
+# [Week 4](https://ktot0.github.io/Statistics/week4)
+
+
+## Objectives:
+
+* Research
+1. Illustrate the parallel between the properties of the relative frequencies and the axioms for probability.
+2. Discuss some concept examples of Measure Space (&Omega;, &epsilon;, P).
+3. Illustrate how Measure Theory provides the mathematical foundation for Probability theory.
+
+* Application
+1. Simulate a sequence of coin-tosses (0 success, 1 unsuccess) and draw a dynamic chart of the relative frequency of a success fs=ms/m, absolutte frequency ms, Normalized frequency ms/sqrt(m). 

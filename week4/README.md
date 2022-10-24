@@ -90,5 +90,6 @@ Example Events
 ### App
 
 
-[Coin-Tosser](https://github.com/Ktot0/Statistics/tree/main/week4/Week4_EX1)
+[Coin-Tosser Livechart](https://github.com/Ktot0/Statistics/tree/main/week4/Week4_EX1)
+[Coin-Tosser Bitmap](https://github.com/Ktot0/Statistics/tree/main/week4/Week4_EX2)
 

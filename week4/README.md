@@ -17,12 +17,18 @@
 ## Objectives:
 
 * Research
-1. Illustrate the parallel between the properties of the relative frequencies and the axioms for probability.
-2. Discuss some concept examples of Measure Space (&Omega;, &epsilon;, P).
-3. Illustrate how Measure Theory provides the mathematical foundation for Probability theory.
+1.Illustrate the parallels, between the properties of the relative frequency and the axioms for probability
+2 Discuss some concrete examples of Probability measure Space
+3 Illustrate how Measure Theory provides the mathematical foundation for Probability Theory
 
 * Application
-1. Simulate a sequence of coin-tosses (0 success, 1 unsuccess) and draw a dynamic chart of the relative frequency of a success fs=ms/m, absolutte frequency ms, Normalized frequency ms/sqrt(m). 
+1. Generate a m sequences of n trials distributed according a Binomial with success probability p and represent the following quantities: absolute frequency of success, relative frequency of success, "normalized" relative frequency of success.
+2. In the same chart, add also a vertical histogram representing the distribution of the above 3 types of frequencies on the last trial.
+
+* Research on App
+
+1. Give a simple introduction to graphics in the .NET environment. How to create a bitmap and a chart on it.
+1. Explain in simple terms how to get device coordinates from world coordinates
 
 ## Assignment
 ### Research
@@ -93,3 +99,10 @@ Example Events
 [Coin-Tosser Livechart](https://github.com/Ktot0/Statistics/tree/main/week4/Week4_EX1)
 [Coin-Tosser Bitmap](https://github.com/Ktot0/Statistics/tree/main/week4/Week4_EX2)
 
+### Research on App
+
+To create a chart using C# we need a PictureBox that has to be placed on our form, a Bitmap variable initialized using PictureBox width and hight and a Graphics variable used to draw our Bitmap to the PictureBox. 
+To represent a real object in the virtual world first step is to get its width and height. Using spatial coordinates, we subtract maxX and minX to obtain its width and maxY,minY to get its height.
+The next step is to define the origin of the object namely left and top. At this point virtual height and width can be chosen, resulting in the final formulas:
+FromXRealToXVirtual = left + W * (X – minX)/(maxX- minX)
+FromYRrealToYVirtual = top + H * (Y – minY)/(maxY – minY) 

@@ -102,7 +102,11 @@ Example Events
 ### Research on App
 
 To create a chart using C# we need a PictureBox that has to be placed on our form, a Bitmap variable initialized using PictureBox width and hight and a Graphics variable used to draw our Bitmap to the PictureBox. 
+
+
 To represent a real object in the virtual world first step is to get its width and height. Using spatial coordinates, we subtract maxX and minX to obtain its width and maxY,minY to get its height.
 The next step is to define the origin of the object namely left and top. At this point virtual height and width can be chosen, resulting in the final formulas:
+
+
 FromXRealToXVirtual = left + W * (X – minX)/(maxX- minX)
 FromYRrealToYVirtual = top + H * (Y – minY)/(maxY – minY) 

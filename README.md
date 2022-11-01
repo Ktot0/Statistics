@@ -57,3 +57,20 @@
 
 1. Give a simple introduction to graphics in the .NET environment. How to create a bitmap and a chart on it.
 1. Explain in simple terms how to get device coordinates from world coordinates
+
+# [Week 5](https://ktot0.github.io/Statistics/week5)
+
+
+## Objectives:
+
+* Research
+1. Explain all possible derivation of the arithmetic mean and in general of the other common types of averages
+2. Illustrate the difference between "mathematical convergence" and "convergence" in probability
+3. Illustrate the differences between Descriptive Statistics and Inferential Statistics and the role of probability and probability distributions
+
+* Application
+1. Given an arbitrary rectangle and a distribution, create the corresponding histogram or column chart, with both vertical and horizontal orientation
+2. Given a rectangle, enable its movement/resize/zoom using a mouse (this will be the resizable where we will draw alll future charts)
+
+* Research on App
+

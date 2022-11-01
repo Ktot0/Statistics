@@ -54,10 +54,21 @@
 
 
 2. Illustrate the difference between "mathematical convergence" and "convergence" in probability.
+ 
+* #### Convergence in probability:
+ 
+    Convergence in probability is the type of convergence established by the weak law of large numbers. Two random variables are "close to each other" if there is a high probability that their difference is very small.
 
+* #### Convergence in distribution: 
+    Convergence in distribution is the weakest form of convergence since it is implied by all other types of convergence but is very frequently used in practice. Using this mode of convergence we expect the model to become more accurate for each next outcome of a random experiment. 
 
-3. Illustrate the differences between Descriptive Statistics and Inferential Statistics and the role of probability and probability distributions
+3. Illustrate the differences between Descriptive Statistics and Inferential Statistics and the role of probability and probability distributions.
 
+* #### Descriptive statistics: 
+    Descriptive statistics allow us to summarize data in a more transparent way. It can not provide a prevision of future behaviours based on data analysis. Typically, Measures of central tendency and Measures of spread are used to describe data.
+
+* #### Inferential statistics: 
+    Inferential statistics are techniques that allow us to use samples to make generalizations about the populations when it is not feasible to gather or analyse the whole population. The chosen sample needs to represent correctly the entire population.
 
 ### App
 

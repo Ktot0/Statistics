@@ -73,9 +73,9 @@
 ### App
 
 
-[Arbitrary distribution](https://github.com/Ktot0/Statistics/tree/main/week4/Week5_EX1)
+[Arbitrary distribution](https://github.com/Ktot0/Statistics/tree/main/week5/Week5_EX1)
 
-[Rectangle resize](https://github.com/Ktot0/Statistics/tree/main/week4/Week5_EX2)
+[Rectangle resize](https://github.com/Ktot0/Statistics/tree/main/week5/Week5_EX2)
 
 ### Research on App
 

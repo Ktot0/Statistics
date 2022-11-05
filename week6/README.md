@@ -44,5 +44,7 @@ $$EV=\sum {P(X_i)\times X_i}$$
     * X is a random variable.
     * P(X) is the probability of the random variable
     
-    The variance of the sampling distribution of the mean is the population variance divided by the sample size. The larger the sample size, the smaller the variance of the sampling distribution of the mean.
-    $$\sigma _M^2 = \frac{\sigma^2}{N}$$
+    The variance of the sampling distribution of the mean is the population variance divided by the sample size. 
+        $$\sigma _M^2 = \frac{\sigma^2}{N}$$
+    The larger the sample size, the smaller the variance of the sampling distribution of the mean.
+    Instead, the expected value of the sample mean is the population mean.

@@ -48,3 +48,8 @@ $$EV=\sum {P(X_i)\times X_i}$$
         $$\sigma _M^2 = \frac{\sigma^2}{N}$$
     The larger the sample size, the smaller the variance of the sampling distribution of the mean.
     Instead, the expected value of the sample mean is the population mean.
+
+### Application
+
+[Exercise 1](https://github.com/Ktot0/Statistics/tree/main/week6/Week6_EX1)
+

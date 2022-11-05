@@ -35,3 +35,7 @@
     In statistics, we refer to a population as a complete set of individuals with a common characteristic, while a sample is a smaller portion of said population extracted using sampling techniques. A sample must reflect its original population characteristics. For this reason, a statistical analysis of a sample must report the approximate standard deviation, or standard error, of its results from the entire population. 
 A sampling distribution is a probability distribution of a statistic obtained from a larger set of samples drawn from a specific population. The sampling distribution of a given population is the distribution of frequencies of a range of different outcomes that could occur for a statistic of a population. As an example, we consider a population with mean and variance. We continuously take samples of size N and calculate the arithmetic mean for each sample or sample mean. We call "sampling distribution of the sample means" the distribution of the sample means.
 
+2. Show the expected value and variance of the sampling mean and take a look at the same sampling variance
+
+    The expected value is calculated by multiplying each of the possible outcomes by the likelihood that each outcome will occur and then summing all of those values.
+$$EV=\sum {P(X_i)\times X_i}$$

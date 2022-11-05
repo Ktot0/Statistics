@@ -29,3 +29,9 @@
 
 ## Assignment
 ### Research
+
+1. Try to explain in your own words the concept of population and sampling distribution
+
+    In statistics, we refer to a population as a complete set of individuals with a common characteristic, while a sample is a smaller portion of said population extracted using sampling techniques. A sample must reflect its original population characteristics. For this reason, a statistical analysis of a sample must report the approximate standard deviation, or standard error, of its results from the entire population. 
+A sampling distribution is a probability distribution of a statistic obtained from a larger set of samples drawn from a specific population. The sampling distribution of a given population is the distribution of frequencies of a range of different outcomes that could occur for a statistic of a population. As an example, we consider a population with mean and variance. We continuously take samples of size N and calculate the arithmetic mean for each sample or sample mean. We call "sampling distribution of the sample means" the distribution of the sample means.
+

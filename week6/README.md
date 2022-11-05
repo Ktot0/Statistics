@@ -39,3 +39,10 @@ A sampling distribution is a probability distribution of a statistic obtained fr
 
     The expected value is calculated by multiplying each of the possible outcomes by the likelihood that each outcome will occur and then summing all of those values.
 $$EV=\sum {P(X_i)\times X_i}$$
+
+    Where
+    * X is a random variable.
+    * P(X) is the probability of the random variable
+    
+    The variance of the sampling distribution of the mean is the population variance divided by the sample size. The larger the sample size, the smaller the variance of the sampling distribution of the mean.
+    $$\sigma _M^2 = \frac{\sigma^2}{N}$$

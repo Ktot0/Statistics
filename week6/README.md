@@ -47,7 +47,7 @@ A sampling distribution is a probability distribution of a statistic obtained fr
     
     The variance of the sampling distribution of the mean is the population variance divided by the sample size. 
         
-        $$\sigma _M^2 = \frac{\sigma^2}{N}$$
+    $$\sigma _M^2 = \frac{\sigma^2}{N}$$
         
     The larger the sample size, the smaller the variance of the sampling distribution of the mean.
     Instead, the expected value of the sample mean is the population mean.

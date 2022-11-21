@@ -108,3 +108,15 @@
 * Application
 
 1. Consider a general scheme ad the simulation of previous homework and simulate the distribution of p = SUM(xi) , where xi are Bernoulli(lambda/n), with success probability lambda /n, where lambda is a user constant ("arrival rate").Also plot the distribution of the "interarrival times".
+
+
+# [Week 8](https://ktot0.github.io/Statistics/week8)
+
+
+## Objectives:
+
+* Research
+
+1. Consider X (radius), Y (angle) uniform r.vs. and use them to determine points on a plane as image. Determine the empirical distribution of the Cartesian coordinates (Application). Search on the web about this problem.
+1. Search for the methods to generate a NORMAL r.v. X, and simulate (Application) the following distribution: X, $X^2$ , $X/Y^2$, $X^2/Y^2$, $X/Y$.
+

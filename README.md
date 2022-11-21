@@ -1,3 +1,16 @@
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['\\(','\\)'], ['$', '$']],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+
 # Statistics Weekly Homeworks
 
 # [Week 1](https://ktot0.github.io/Statistics/week1)

@@ -29,5 +29,13 @@
     
     To convert polar coordinates to cartesian, we obtain the other two legs of the triangle using the sine e cosine function and subtract those values from the coordinates of the centre point.
     
-2. According to [wikipedia](https://en.wikipedia.org/wiki/Marsaglia_polar_method) a common pseudo-random sampling method for generating a pair of independent standard normal random variables is the Marsaglia polar method.
+2. According to [wikipedia](https://en.wikipedia.org/wiki/Marsaglia_polar_method) a common pseudo-random sampling method for generating a pair of independent standard normal random variables is the Marsaglia polar method. This method works by choosing random points $(x,y)$ in the square $-1$ < $x$ < $1$, $-1$ < $y$ < $1$ until
+    $0$ < $s=x^2+y^2$ < $1$ ,
+    and then returning the required pair of normal random variables as
+    $$x\sqrt[2]{\frac{-2ln(s)}{s}},y\sqrt[2]{\frac{-2ln(s)}{s}}$$
+    
+### Application
+
+1. [Random Points Polar Notation](https://github.com/Ktot0/Statistics/tree/main/week8/Week8_EX1)
+2. [Simulated Marsaglia Distributions](https://github.com/Ktot0/Statistics/tree/main/week8/Week8_EX2)
 

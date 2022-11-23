@@ -65,11 +65,11 @@ Determine the empirical distribution of the corresponding Cartesian coordinates 
     
     [Random Points Polar Notation](https://github.com/Ktot0/Statistics/tree/main/week8/Week8_EX1)
     
-2. [Simulated Marsaglia Distributions](https://github.com/Ktot0/Statistics/tree/main/week8/Week8_EX2)
+2. [Simulated Distributions](https://github.com/Ktot0/Statistics/tree/main/week8/Week8_EX2)
 
 ### Research on App
 
-1. The simulated distributions are the Gauss distribution (X), the Chi-square distribution (X²), the T-Student distribution(X/Y²), the Fisher-Snedocor distribution (X²/Y²), and the Cauchy distribution (X/Y).
+1. The simulated distributions are the Normal or Gauss distribution (X), the Chi-square distribution (X²), the T-Student distribution(X/Y²), the Fisher-Snedocor distribution (X²/Y²), and the Cauchy distribution (X/Y).
     
     * Chi-square:
     If standard normal random variables $Z_1,...,Z_k$ are independent then the sum of their squares is distributed according to the Chi-square distribution with one parameter $k$ representing degrees of freedom.

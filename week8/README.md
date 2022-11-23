@@ -68,4 +68,4 @@ Determine the empirical distribution of the corresponding Cartesian coordinates 
 
 ### Research on App
 
-1.
+1. The simulated distributions are the Gauss distribution (X), the Chi-square distribution (X²), the T-Student distribution(X/Y²), the Fisher-Snedocor distribution (X²/Y²), and the Cauchy distribution (X/Y).

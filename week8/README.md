@@ -38,9 +38,8 @@ Determine the empirical distribution of the corresponding Cartesian coordinates 
  
     #### de Moivre: 
     
-    The probability mass function of the random number of "successes" observed in a series of $n$ independent Bernoulli trials, each having probability $p$ of success , converges to the probability density function of the normal distribution with mean $np$ and standard deviation $\sqrt[2]{np(1-p)}$ , as $n$ grows large, assuming $p$ is not $0$ or $1$
-    
-    $$ \begin{pmatrix}n \\ k\end{pmatrix}p^kq^{n-k}\simeq\frac{1}{\sqrt[2]{2\pi npq}}e^{-\frac{(k-np)^2}{2npq}} $$
+    The probability mass function of the random number of "successes" observed in a series of $n$ independent Bernoulli trials, each having probability $p$ of success , converges to the probability density function of the normal distribution with mean $np$ and standard deviation $\sqrt[2]{np(1-p)}$ , as $n$ grows large, assuming $p$ is not $0$ or $1$.
+   
     
     #### Gauss: 
     #### Central limit theorem: 

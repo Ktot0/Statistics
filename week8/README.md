@@ -40,14 +40,13 @@ Determine the empirical distribution of the corresponding Cartesian coordinates 
     
     The probability mass function of the random number of "successes" observed in a series of $n$ independent Bernoulli trials, each having probability $p$ of success , converges to the probability density function of the normal distribution with mean $np$ and standard deviation $\sqrt[2]{np(1-p)}$ , as $n$ grows large, assuming $p$ is not $0$ or $1$.
    
-    
     #### Gauss: 
     #### Central limit theorem: 
 
 2. According to [wikipedia](https://en.wikipedia.org/wiki/Marsaglia_polar_method) a common pseudo-random sampling method for generating a pair of independent standard normal random variables is the Marsaglia polar method. This method works by choosing random points $(x,y)$ in the square $-1$ < $x$ < $1$, $-1$ < $y$ < $1$ until
     $0$ < $s=x^2+y^2$ < $1$ ,
     and then returning the required pair of normal random variables as
-    $$x\sqrt[2]{\frac{-2ln(s)}{s}},y\sqrt[2]{\frac{-2ln(s)}{s}}, p+q=1,p,q>0$$
+    $$x\sqrt[2]{\frac{-2ln(s)}{s}},y\sqrt[2]{\frac{-2ln(s)}{s}}$$
     
 ### Application
 

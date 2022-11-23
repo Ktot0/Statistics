@@ -1,0 +1,17 @@
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\bin\Debug\net6.0-windows\Week8_EX2.exe
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\bin\Debug\net6.0-windows\Week8_EX2.deps.json
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\bin\Debug\net6.0-windows\Week8_EX2.runtimeconfig.json
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\bin\Debug\net6.0-windows\Week8_EX2.dll
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\bin\Debug\net6.0-windows\Week8_EX2.pdb
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.Form1.resources
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.AssemblyInfo.cs
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.dll
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\refint\Week8_EX2.dll
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.pdb
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\Week8_EX2.genruntimeconfig.cache
+C:\Users\david\source\repos\Week8_EX2\Week8_EX2\obj\Debug\net6.0-windows\ref\Week8_EX2.dll

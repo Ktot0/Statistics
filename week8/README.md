@@ -52,6 +52,7 @@ Determine the empirical distribution of the corresponding Cartesian coordinates 
 2. According to [wikipedia](https://en.wikipedia.org/wiki/Marsaglia_polar_method) a common pseudo-random sampling method for generating a pair of independent standard normal random variables is the Marsaglia polar method. This method works by choosing random points $(x,y)$ in the square $-1$ < $x$ < $1$, $-1$ < $y$ < $1$ until
     $0$ < $s=x^2+y^2$ < $1$ ,
     and then returning the required pair of normal random variables as
+    
     $$x\sqrt{\frac{-2ln(s)}{s}},y\sqrt{\frac{-2ln(s)}{s}}$$
     
 ### Application
@@ -69,3 +70,24 @@ Determine the empirical distribution of the corresponding Cartesian coordinates 
 ### Research on App
 
 1. The simulated distributions are the Gauss distribution (X), the Chi-square distribution (X²), the T-Student distribution(X/Y²), the Fisher-Snedocor distribution (X²/Y²), and the Cauchy distribution (X/Y).
+    
+    * Chi-square:
+    If standard normal random variables $Z_1,...,Z_k$ are independent then the sum of their squares is distributed according to the Chi-square distribution with one parameter $k$ representing degrees of freedom.
+    * T-Student:
+    Is defined as 
+    
+    $$T_n=\frac{Z}{\sqrt{K/n}}$$
+    
+    where $Z$ is a normal random variable and $K$ is a $\mathcal{X}^2$ random variable with $n$ degrees of freedom.
+    
+    * Fisher-Snedocor:
+    
+    $$X = \frac{S_1/d_1}{S_2/d_2}$$
+    
+    where $S_1$ and $S_2$ are independent random variables with chi-square distributions and respective degrees of freedom $d_1$ and $d_2$.
+    
+    * Cauchy:
+    
+    $$f(x;x_0,\gamma)=\frac{1}{\pi\gamma[1+(\frac{x-x_0}{\gamma})^2]}=\frac{1}{\pi\gamma}[\frac{\gamma^2}{(x-x_0)^2+\gamma^2}]$$
+    
+    where $x_0$ is the location parameter and $\gamma$ is the scale parameter.

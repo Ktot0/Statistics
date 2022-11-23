@@ -105,7 +105,6 @@
 
 1. Take any population and any variable X and draw m (large) samples of size n (as you like) and represent the following 2 distributions: Distribution of the mean and distribution of the variance. Finally, for each distribution compute mean and variance and compare the corrisponding values in the population.
 
-* Research on App
 
 
 # [Week 7](https://ktot0.github.io/Statistics/week7)
@@ -130,6 +129,17 @@
 
 * Research
 
-1. Consider X (radius), Y (angle) uniform r.vs. and use them to determine points on a plane as image. Determine the empirical distribution of the Cartesian coordinates (Application). Search on the web about this problem.
-2. Search for the methods to generate a NORMAL r.v. X, and simulate (Application) the following distribution: X, $X^2$ , $X/Y^2$, $X^2/Y^2$, $X/Y$.
+1. Search on the web about possible derivation of the Normal Distribution.
+2. Search on the web about method to generate normal variate (eg Marsaglia method, etc.)
+
+* Application
+
+1. Consider R (radius), A(angle) uniform rv's and use them as random polar coordinates on a plane.
+Determine the empirical distribution of the corresponding Cartesian coordinates (X,Y).
+
+2. Search for the methods to generate Normal rv's X from uniform rv's, and simulate the following distribution: X, X², X/Y², X²/Y², X/Y .
+
+* Research on App
+
+1. Find in the web what are the distributions that you just simulated.
 
